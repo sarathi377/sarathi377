@@ -1,228 +1,211 @@
-👋 Hi, I'm Keerthasarathi G K!
+👋 Hi, I'm Keerthasarathi G K
 
-💻 Computer Science Engineering Student | 🤖 AI/ML Enthusiast | 🚀 Developer
+💻 Computer Science Engineering Student | 🤖 AI/ML Developer | 🚀 Problem Solver
 
-I’m a Computer Science Engineering student passionate about building practical software solutions using Artificial Intelligence, Machine Learning, Web Development, and Computer Vision.
+I’m a Computer Science Engineering student focused on building AI-powered and practical software solutions. My projects explore areas such as Computer Vision, Machine Learning, NLP, Web Development, and intelligent automation.
 
-I enjoy turning ideas into real-world projects and continuously improving my programming and problem-solving skills.
-
----
-
-🧑‍💻 About Me
-
-- 🎓 Computer Science Engineering Student
-- 🤖 Interested in AI & Machine Learning
-- 👁️ Exploring Computer Vision & NLP
-- 🌐 Building Web Applications
-- 🏆 Interested in Hackathons & Innovation
-- ☕ Practicing Java & Data Structures
-- 🗃️ Learning SQL & Database Management
-- 🧩 Improving my problem-solving skills
-- 🚀 Building projects that solve real-world problems
-
----
-
-🛠️ Tech Stack
-
-👨‍💻 Languages
-
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"C" (https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-🌐 Web Development
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-🤖 AI / ML
-
-"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-"Computer Vision" (https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
-"NLP" (https://img.shields.io/badge/NLP-412991?style=for-the-badge)
-"Gemini AI" (https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-🔥 Tools & Platforms
-
-"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I enjoy taking real-world problems and turning them into working technology.
 
 ---
 
 🚀 Featured Projects
 
-🐟 AquaLens AI — FISHID
+🐟 AquaLens AI — AI-Powered Fish Intelligence Platform
 
-An AI-powered fish identification and analysis platform designed to provide useful information from fish images.
+🔗 "View Repository →" (https://github.com/sarathi377/FISHID)
 
-✨ Features
+AquaLens AI is an AI-powered fish analysis platform designed to help users identify fish species and understand important information about the fish from an image.
 
-- 🐠 Fish species identification
-- 🔬 Scientific name detection
-- 🥗 Nutritional information
-- 🧊 Freshness & quality analysis
-- 🌊 Habitat information
-- ☁️ Marine weather analysis
-- 🤖 AI-powered fish information
+The system combines computer vision and generative AI to transform a simple fish image into useful information for consumers and fishing-related users.
 
-Tech: React.js • TypeScript • AI/ML • Computer Vision • Gemini AI
+🔍 What it does
 
-🔗 "View Project →" (https://github.com/sarathi377/FISHID)
+- 🐠 Fish Species Identification — identifies fish from uploaded or captured images.
+- 🔬 Scientific Information — provides scientific names, characteristics, habitat and related information.
+- 🥗 Nutritional Information — presents useful nutritional details about identified species.
+- 🧊 Freshness & Quality Analysis — analyzes visual indicators related to fish freshness and quality.
+- 🌊 Marine Weather Analysis — provides weather-related information useful for fishing activities.
+- 🤖 AI Fish Assistant — allows users to interact with an AI-powered fish information chatbot.
 
----
+🛠️ Technology
 
-🧠 MindMate
+"React.js" "PWA" "MobileNetV2" "Computer Vision" "Gemini AI" "APIs"
 
-An AI-powered web application designed to support mental well-being through intelligent chat interaction, mood detection, and emotional analytics.
+💡 Goal
 
-✨ Features
-
-- 💬 AI Friendly Chat
-- 🧩 Problem-Solving Mode
-- 😊 Mood Analysis
-- 📊 Emotional Analytics
-- 🧘 Relaxation & Breathing Exercises
-- 👤 User Profile
-- 🔐 Firebase Authentication
-- ☁️ Firestore Integration
-
-Tech: HTML • CSS • JavaScript • Firebase • AI/NLP
-
-🔗 "View Project →" (https://github.com/sarathi377/MINDMATE)
+To make fish identification and fish-related information faster, more accessible and easier to understand using AI.
 
 ---
 
-🧓 SMARAN-NER
+🧠 MindMate — AI-Powered Mental Wellness Platform
 
-Smart Memory & Cognitive Assistance Network for Elderly Care
+🔗 "View Repository →" (https://github.com/sarathi377/MINDMATE)
 
-An AI-assisted concept focused on helping elderly users through simple, accessible and culturally familiar cognitive activities.
+MindMate is an AI-powered web application designed to provide an interactive digital space for users to communicate, reflect on their mood and access relaxation activities.
 
-✨ Key Ideas
+The application combines AI-based conversation, mood analysis and personalized interaction into a single platform.
 
-- 🧠 Adaptive cognitive games
-- 🗣️ Voice-based interaction
-- 🌐 Multilingual support
-- 🏠 Offline-first operation
-- 💊 Reminder assistance
-- 👨‍👩‍👧 Caregiver monitoring
-- 🎯 Culturally familiar activities
+🔍 Core Features
 
-Focus: AI • Accessibility • Elderly Care • Offline Technology
+- 💬 Friendly Chat — conversational interaction for users who want someone to talk to.
+- 🧩 Problem-Solving Mode — structured conversations focused on understanding user problems.
+- 😊 Mood Analysis — explores mood-related information through the application.
+- 🧘 Relaxation Module — guided breathing and relaxation exercises.
+- 📊 Mood Tracking — stores information that can be used to understand mood patterns.
+- 👤 Personal Profile — customizable user information.
+- 🔐 Authentication — secure user login and registration using Firebase.
+- ☁️ Cloud Storage — Firebase Firestore for application data.
 
-🔗 Repository: Coming Soon
+🛠️ Technology
 
----
+"HTML" "CSS" "JavaScript" "Firebase" "Firestore" "NLP" "AI"
 
-⚖️ Legal Metrology AI
+💡 Goal
 
-An intelligent system concept for analyzing product labels and detecting missing or incorrect packaged-commodity declarations.
-
-✨ Key Features
-
-- 📦 Product label scanning
-- 🔎 Declaration extraction
-- 💰 MRP detection
-- ⚖️ Net quantity checking
-- 🏭 Manufacturer/importer information
-- 📅 Date detection
-- 🚨 Missing declaration alerts
-
-Tech: Java • OCR • AI/ML • Image Processing
-
-🔗 Repository: Coming Soon
+To create an accessible digital platform that combines AI interaction and wellness-oriented features in one application.
 
 ---
 
-🧩 My LeetCode Journey
+🧓 SMARAN-NER — AI Cognitive Assistance for Elderly Care
 
-I’m actively practicing problem solving and building my DSA + SQL fundamentals.
+Smart Memory & Cognitive Assistance Network
 
-📊 Current Progress
+SMARAN-NER is an AI-assisted solution concept developed around the challenges faced by elderly users, particularly in rural and underserved regions of Northeast India.
 
-Language| Problems Solved
-☕ Java| 25
-🗃️ MySQL| 6
-🐚 Bash| 4
+The system focuses on making cognitive assistance simple, accessible, multilingual and usable even with limited internet connectivity.
 
-🧠 Topics I'm Practicing
+🔍 Core Features
 
-"Arrays" • "Strings" • "Hash Tables" • "Sorting" • "Math" • "Database" • "Dynamic Programming" • "Trie"
+- 🧠 Adaptive Cognitive Games — activities that can adapt to the user's interaction level.
+- 🗣️ Voice-Based Interaction — reduces dependence on typing and small interfaces.
+- 🌐 Regional Language Support — designed around multilingual and culturally familiar interaction.
+- 🏠 Offline-First Operation — essential features can work with intermittent connectivity.
+- 💊 Reminder Assistance — helps users remember important daily activities.
+- 👨‍👩‍👧 Caregiver Support — enables caregivers to monitor relevant user activity.
+- 🎯 Culturally Familiar Activities — uses familiar games and storytelling to improve engagement.
 
-🔗 "View my LeetCode Profile →" (https://leetcode.com/u/Keerthasarathi/)
+🛠️ Technology
+
+"AI" "NLP" "Speech Technology" "Offline Computing" "Mobile Application"
+
+💡 Goal
+
+To make cognitive assistance more accessible to elderly users who may face language, digital-literacy and connectivity barriers.
 
 ---
 
-📊 GitHub Stats
+⚖️ Legal Metrology AI — Intelligent Product Label Compliance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarathi377&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathi377&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>---
+Legal Metrology AI is a software concept designed to automate the analysis of product labels and packaged-commodity declarations.
 
-🔥 GitHub Streak
+Instead of manually checking every declaration on a package, the system aims to use OCR, image processing and rule-based validation to identify required information and highlight potential issues.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarathi377&theme=tokyonight&hide_border=true"/>
-</p>---
+🔍 What it can analyze
 
-📈 Contribution Graph
+- 🏭 Manufacturer / packer / importer details
+- ⚖️ Net quantity
+- 💰 Maximum Retail Price (MRP)
+- 📅 Manufacturing / packing information
+- 📞 Consumer-care information
+- 🔎 Missing declarations
+- 🚨 Potential declaration-format issues
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarathi377&theme=tokyo-night&hide_border=true"/>
-</p>---
+🛠️ Technology
 
-🎯 Currently Learning
+"Java" "OCR" "Image Processing" "AI/ML" "Rule-Based Validation"
 
-Java
-  ↓
-Data Structures & Algorithms
-  ↓
-Problem Solving
-  ↓
-Python & SQL
-  ↓
-Machine Learning
-  ↓
-Computer Vision + NLP
-  ↓
-AI-Powered Applications
+💡 Goal
+
+To reduce manual effort in product-label inspection and compliance checking by converting package images into structured, machine-checkable information.
+
+---
+
+🧩 Problem Solving — LeetCode
+
+I’m continuously improving my Data Structures, Algorithms and SQL skills through coding practice.
+
+📈 Current Practice
+
+Language| Problems
+☕ Java| 25+
+🗃️ MySQL| 6+
+🐚 Bash| 4+
+
+🔗 "My LeetCode Profile →" (https://leetcode.com/u/Keerthasarathi/)
+
+Currently Practicing
+
+"Arrays" • "Strings" • "Hash Tables" • "Sorting" • "Math" • "SQL" • "Problem Solving"
+
+---
+
+🛠️ Technical Skills
+
+Languages
+
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"C" (https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+"SQL" (https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
+
+Web & Cloud
+
+"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+AI & Data
+
+"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
+"Computer Vision" (https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square)
+"NLP" (https://img.shields.io/badge/NLP-412991?style=flat-square)
+"Gemini" (https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
 🏆 Hackathons & Innovation
 
-🚀 Smart India Hackathon
+I’m interested in developing technology-driven solutions for real-world problems through hackathons and innovation challenges.
 
-I enjoy working on technology-driven solutions for real-world problems using:
+Areas of Interest
 
-AI + Software + Accessibility + Innovation
-
-Current areas of interest include:
-
-- 🧓 Elderly assistance
-- 🐟 Fish identification
-- 🧠 Mental wellness technology
-- ⚖️ Legal compliance automation
-- 🤖 AI-powered applications
+🤖 Artificial Intelligence
+👁️ Computer Vision
+🧠 Natural Language Processing
+🌐 Full-Stack Development
+📱 Accessible Technology
+🏆 Hackathon Projects
 
 ---
 
-💡 Developer Philosophy
+📊 GitHub
 
-«Learn → Build → Test → Improve → Repeat 🔁»
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sarathi377&show_icons=true&theme=tokyonight&hide_border=true" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathi377&layout=compact&theme=tokyonight&hide_border=true" height="165"/></p><p align="center">
+<img src="https://streak-stats.demolab.com?user=sarathi377&theme=tokyonight&hide_border=true"/>
+</p>---
 
-I believe the best way to learn technology is by building real projects and solving real problems.
+📚 Currently Learning
+
+Java
+ ↓
+Data Structures & Algorithms
+ ↓
+Problem Solving
+ ↓
+Python + SQL
+ ↓
+Machine Learning
+ ↓
+Computer Vision + NLP
+ ↓
+AI-Powered Applications
 
 ---
 
-🤝 Let's Connect
+🤝 Connect With Me
 
 <p align="center"><a href="https://github.com/sarathi377">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -232,14 +215,12 @@ I believe the best way to learn technology is by building real projects and solv
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a></p>---
 
-🌟 Profile Visitors
+💡 My Development Philosophy
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarathi377&label=Profile%20Views&style=for-the-badge"/>
-</p>---
+«Learn → Build → Solve → Improve → Repeat 🔁»
 
-<h3 align="center">
-  🚀 Building Today • Learning Every Day • Creating for Tomorrow
-</h3><p align="center">
-  ⭐ Thanks for visiting my profile!
+<p align="center">🚀 Building practical solutions with AI and technology.
+
+⭐ Thanks for visiting my profile!
+
 </p>
